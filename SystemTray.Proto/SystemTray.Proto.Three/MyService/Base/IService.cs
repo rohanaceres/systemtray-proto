@@ -2,6 +2,7 @@
 {
     internal interface IService
     {
+        void Start();
         void DoSomething();
     }
 }
